@@ -3,8 +3,6 @@ import { Route, Switch } from 'react-router-dom';
 import { HomePage, CartPage } from '../pages';
 import ShopHeader from '../shop-header/shop-header';
 
-import moment from 'moment';
-
 import './app.css';
 
 const App = () => {
